@@ -1,0 +1,9 @@
+{
+    "auctions": [
+        {"ItemName": "Imac", "InitialBid": 0.3, "Description": "Working good"},
+        {"ItemName": "Iphone", "InitialBid": 0.15, "Description": "In perfect condition"},
+        {"ItemName": "LV purse", "InitialBid": 0.4, "Description": "Limited edition"},
+        {"ItemName": "Gucci bag", "InitialBid": 0.15, "Description": "Limited edition"},
+        {"ItemName": "Gucci purse", "InitialBid": 0.15, "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."}
+    ]
+}
